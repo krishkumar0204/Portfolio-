@@ -26,7 +26,7 @@ export default function About() {
         <div className="mt-20 md:flex">
           <div className="w-full md:max-w-xl">
             <img
-              src="/src/assets/picture.jpeg"
+              src="/assets/picture.jpeg"
               alt="glimpse_Of_myself"
               className="w-full md:w-64 lg:w-80 h-64 lg:h-96 object-cover rounded-3xl profile-frame shrink-0"
             />
@@ -48,7 +48,7 @@ export default function About() {
               This is my story — alongside some flicks from my college life.
             </p>
             <img
-              src="/src/assets/College_memory.jpeg"
+              src="/assets/College_memory.jpeg"
               className="hidden md:block w-full md:w-64 lg:w-80 h-64 lg:h-96 object-cover rounded-3xl profile-frame shrink-0 mt-20"
             />
           </div>
@@ -56,7 +56,7 @@ export default function About() {
 
         <div className="mt-20 md:flex md:gap-16 md:flex-row flex  flex-col">
           <img
-            src="/src/assets/Full_Stack_Certifiacate.jpeg"
+            src="/assets/Full_Stack_Certifiacate.jpeg"
             alt="Full_Stack_Certificate"
             className="w-full md:w-64 lg:w-96 h-64 lg:h-96 object-cover rounded-3xl profile-frame shrink-0 mt-10"
           />
@@ -82,7 +82,7 @@ export default function About() {
         }
       `}</style>
             <img
-              src="/src/assets/HackSphere.jpeg"
+              src="/assets/HackSphere.jpeg"
               alt="glimpse_Of_myself"
               className="w-full md:w-64 lg:w-80 h-64 lg:h-96 object-cover rounded-3xl profile-frame shrink-0"
             />
@@ -107,7 +107,7 @@ export default function About() {
               This is my story — Glimpse of Hackathon
             </p>
             <img
-              src="/src/assets/HackHorizon.jpeg"
+              src="/assets/HackHorizon.jpeg"
               className="hidden md:block w-full md:w-64 lg:w-80 h-64 lg:h-96 object-cover rounded-3xl profile-frame shrink-0 mt-20"
             />
           </div>

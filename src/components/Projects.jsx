@@ -39,7 +39,7 @@ export default function Projects() {
           </p>
           <a href="https://india-explorer.onrender.com/" target="_blank">
             <img
-              src="/src/assets/IndiaExplorer.png"
+              src="/assets/IndiaExplorer.png"
               alt="India Explorer Overview"
               className="h-44 md:h-96 md:w-xl w-64 object-contain mx-auto mt-4 md:mt-0 shrink-0"
             />
@@ -56,7 +56,7 @@ export default function Projects() {
           </p>
           <a href="https://wanderlust-c5mp.onrender.com/" target="_blank">
             <img
-              src="/src/assets/WanderLust.png"
+              src="/assets/WanderLust.png"
               alt="WanderLust Overview"
               className="h-44 md:h-96 md:w-xl w-64  object-contain mx-auto mt-4 md:mt-0 shrink-0"
             />
@@ -74,7 +74,7 @@ export default function Projects() {
           </p>
           <a href="https://wanderlust-c5mp.onrender.com/" target="_blank">
             <img
-              src="/src/assets/Portfolio.png"
+              src="/assets/Portfolio.png"
               alt="Portfolio Overview"
               className="h-44 md:h-96 md:w-xl w-64  object-contain mx-auto mt-4 md:mt-0 shrink-0"
             />

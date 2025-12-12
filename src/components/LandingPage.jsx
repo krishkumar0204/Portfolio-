@@ -42,37 +42,34 @@ export default function LandingPage() {
         <div className="grid grid-cols-2 md:grid-cols-5 gap-6 md:gap-4 items-center justify-items-center mx-auto w-full max-w-5xl mt-16 md:mt-30">
           <div className="bg-transparent shadow-md shadow-[#ffffff33] h-20 w-20 flex items-center justify-center rounded-full hover:shadow-indigo-500 tech-glow">
             <img
-              src="/src/assets/html_sdrsb6.png"
+              src="/assets/html_sdrsb6.png"
               className="h-14 w-14 relative tech-img"
             />
           </div>
           <div className="bg-transparent shadow-md shadow-[#ffffff33] h-20 w-20 flex items-center justify-center rounded-full hover:shadow-indigo-500 tech-glow">
-            <img src="/src/assets/css_dypipp.png" className="tech-img" />
+            <img src="/assets/css_dypipp.png" className="tech-img" />
           </div>
           <div className="bg-transparent shadow-md shadow-[#ffffff33] h-20 w-20 flex items-center justify-center rounded-full hover:shadow-indigo-500 tech-glow">
-            <img src="/src/assets/js_pdhqof.png" className="tech-img" />
+            <img src="/assets/js_pdhqof.png" className="tech-img" />
           </div>
 
           <div className="bg-transparent shadow-md shadow-[#ffffff33] h-20 w-20 flex items-center justify-center rounded-full hover:shadow-indigo-500 tech-glow">
-            <img src="/src/assets/node_pfe7fa.png" className="tech-img" />
+            <img src="/assets/node_pfe7fa.png" className="tech-img" />
           </div>
           <div className="bg-transparent shadow-md shadow-[#ffffff33] h-20 w-20 flex items-center justify-center rounded-full hover:shadow-indigo-500 tech-glow">
-            <img src="/src/assets/react_mxcnqp.png" className="tech-img" />
+            <img src="/assets/react_mxcnqp.png" className="tech-img" />
           </div>
           <div className="bg-transparent shadow-md shadow-[#ffffff33] h-20 w-20 flex items-center justify-center rounded-full hover:shadow-indigo-500 tech-glow">
-            <img src="/src/assets/express_qmb2no.png" className="tech-img" />
+            <img src="/assets/express_qmb2no.png" className="tech-img" />
           </div>
           <div className="bg-transparent shadow-md shadow-[#ffffff33] h-20 w-20 flex items-center justify-center rounded-full hover:shadow-indigo-500 tech-glow">
-            <img src="/src/assets/sql_d8is5k.png" className="tech-img" />
+            <img src="/assets/sql_d8is5k.png" className="tech-img" />
           </div>
           <div className="bg-transparent shadow-md shadow-[#ffffff33] h-20 w-20 flex items-center justify-center rounded-full hover:shadow-indigo-500 tech-glow">
-            <img src="/src/assets/mongo_vjalgk.png" className="tech-img" />
+            <img src="/assets/mongo_vjalgk.png" className="tech-img" />
           </div>
           <div className="bg-transparent shadow-md shadow-[#ffffff33] h-20 w-20 flex items-center justify-center rounded-full hover:shadow-indigo-500 tech-glow">
-            <img
-              src="/src/assets/java_qxlwq1.png"
-              className="h-12 w-12 tech-img"
-            />
+            <img src="/assets/java_qxlwq1.png" className="h-12 w-12 tech-img" />
           </div>
 
           <div className="bg-transparent shadow-md shadow-[#ffffff33] h-20 w-20 flex items-center justify-center rounded-full hover:shadow-indigo-500 tech-glow">
