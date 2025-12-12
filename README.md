@@ -24,7 +24,7 @@
 ### **📁 Project Structure**
 
     public/
-    │── assets/
+    │── assets
     src/
     │── components/
     │── App.jsx
