@@ -101,7 +101,7 @@ export default function Navbar() {
           About
         </Link>
         <a
-          href="/Resume/Resume_Krish_Kumar.pdf"
+          href="/assets/Resume_Krish_Kumar.pdf"
           className="font-medium text-sm hover:text-teal-100"
           target="_blank"
         >
@@ -168,7 +168,7 @@ export default function Navbar() {
               About
             </Link>
             <a
-              href="/Resume/Resume_Krish_Kumar.pdf"
+              href="/assets/Resume_Krish_Kumar.pdf"
               className="px-5 py-2 hover:bg-gray-800 rounded text-sm font-medium"
               onClick={() => setOpen(false)}
               target="_blank"
