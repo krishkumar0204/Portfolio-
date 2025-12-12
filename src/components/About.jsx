@@ -24,20 +24,20 @@ export default function About() {
         </div>
 
         <div className="mt-20 md:flex">
-          <div className="w-full md:max-w-xl">
+          <div className="w-full md:max-w-sm">
             <img
               src="/assets/picture.jpeg"
               alt="glimpse_Of_myself"
               className="w-full md:w-64 lg:w-80 h-64 lg:h-96 object-cover rounded-3xl profile-frame shrink-0"
             />
-            <p className="max-w-prose mt-8 ml-2 font-semibold text-md md:text-md text-white">
+            <p className="max-w-xs mt-8 ml-2 font-semibold text-md md:text-md text-white">
               My Journey in Bachelor of Computer Application
             </p>
-            <p className="max-w-prose mt-4 ml-2 text-xs text-neutral-300">
+            <p className="max-w-xs mt-4 ml-2 text-xs text-neutral-300">
               I will be soon graduating with a degree in Bachelor Of Computer
               Application from Magadh University.
             </p>
-            <p className="max-w-prose mt-4 ml-2 text-xs text-neutral-300">
+            <p className="max-w-xs mt-4 ml-2 text-xs text-neutral-300">
               Here, I discovered technology's true potential—not merely as tools
               or code but as a driving force capable of shaping how we live,
               connect, and evolve.
@@ -74,26 +74,20 @@ export default function About() {
         </div>
 
         <div className="mt-20 flex">
-          <div className="w-full md:max-w-xl">
-            <style>{`
-        .profile-frame {
-          box-shadow: 0 0 30px rgba(94, 234, 212, 0.3), inset 0 0 20px rgba(94, 234, 212, 0.1);
-          border: 3px solid rgba(94, 234, 212, 0.5);
-        }
-      `}</style>
+          <div className="w-full md:max-w-sm">
             <img
               src="/assets/HackSphere.jpeg"
               alt="glimpse_Of_myself"
-              className="w-full md:w-64 lg:w-80 h-64 lg:h-96 object-cover rounded-3xl profile-frame shrink-0"
+              className="w-xl md:w-64 lg:w-80 h-64 lg:h-96 object-cover rounded-3xl profile-frame shrink-0"
             />
-            <p className="max-w-prose mt-8 ml-2 font-semibold text-md md:text-md text-white">
+            <p className="w-xs mt-8 ml-2 font-semibold text-md md:text-md text-white">
               Empowering Lives With Technology.
             </p>
-            <p className="max-w-prose mt-4 ml-2 text-xs text-neutral-300">
+            <p className="w-xs mt-4 ml-2 text-xs text-neutral-300">
               Participated in a hackathon, collaborating with developers to
               build a functional prototype under a tight deadline.
             </p>
-            <p className="max-w-prose mt-4 ml-2 text-xs text-neutral-300">
+            <p className="w-xs mt-4 ml-2 text-xs text-neutral-300">
               Developed a working demo that showcased creativity, technical
               skills, and teamwork.
             </p>

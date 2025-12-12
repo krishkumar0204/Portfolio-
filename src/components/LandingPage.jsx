@@ -4,7 +4,7 @@ export default function LandingPage() {
     <>
       <div className="flex flex-col lg:flex-row gap-8 lg:gap-20 mt-32 lg:mt-30 mx-auto px-4 max-w-4xl">
         <img
-          src="/src/assets/Profile_Pic.jpeg"
+          src="/assets/Profile_Pic.jpeg"
           alt="Profile_picture"
           className="h-64 lg:h-80 w-64 lg:w-auto object-cover rounded-3xl profile-frame shrink-0"
         />
@@ -16,7 +16,7 @@ export default function LandingPage() {
             Upcoming Software Engineer
           </p>
           <div className="flex items-center mt-2">
-            <img src="/src/assets/pin.png" className="h-10 w-10" />
+            <img src="/assets/pin.png" className="h-10 w-10" />
             <p className="font-semibold text-md text-neutral-200"> India</p>
           </div>
           <p className="mt-10 text-center text-xl md:mt-14 md:text-2xl font-semibold italic">
