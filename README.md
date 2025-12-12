@@ -1,7 +1,7 @@
 ### **🌐 Portfolio Website – React & Tailwind CSS**
 
-A sleek, responsive, and minimal portfolio website built using React and Tailwind CSS.
-This website showcases my skills, projects, experience, and achievements as a full-stack developer.
+    A sleek, responsive, and minimal portfolio website built using React and Tailwind CSS.
+    This website showcases my skills, projects, experience, and achievements as a full-stack developer.
 
 ### **🚀 Features**
 
