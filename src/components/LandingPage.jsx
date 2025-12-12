@@ -99,7 +99,7 @@ export default function LandingPage() {
               Projects
             </a>
             <a
-              href="/Resume/Resume_Krish_Kumar.pdf"
+              href="/assets/Resume_Krish_Kumar.pdf"
               target="_blank"
               className="text-sm text-gray-200 font-semibold opacity-50 hover:opacity-100 cursor"
             >
