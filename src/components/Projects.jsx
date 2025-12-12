@@ -72,10 +72,7 @@ export default function Projects() {
               — a look at what I’ve been building.
             </span>
           </p>
-          <a
-            href="https://portfolio-2vg4naikt-krishkumar0204s-projects.vercel.app/"
-            target="_blank"
-          >
+          <a href="https://portfolio-pink-nu-89.vercel.app/" target="_blank">
             <img
               src="/assets/Portfolio.png"
               alt="Portfolio Overview"

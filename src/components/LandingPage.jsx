@@ -73,7 +73,7 @@ export default function LandingPage() {
           </div>
 
           <div className="bg-transparent shadow-md shadow-[#ffffff33] h-20 w-20 flex items-center justify-center rounded-full hover:shadow-indigo-500 tech-glow">
-            <img src="/src/assets/python.png" className="h-8 w-8 tech-img" />
+            <img src="/assets/python.png" className="h-8 w-8 tech-img" />
           </div>
         </div>
       </div>
