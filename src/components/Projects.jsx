@@ -72,7 +72,10 @@ export default function Projects() {
               — a look at what I’ve been building.
             </span>
           </p>
-          <a href="https://wanderlust-c5mp.onrender.com/" target="_blank">
+          <a
+            href="https://portfolio-2vg4naikt-krishkumar0204s-projects.vercel.app/"
+            target="_blank"
+          >
             <img
               src="/assets/Portfolio.png"
               alt="Portfolio Overview"
