@@ -19,15 +19,13 @@
 
 ### **📸 Preview**
 
-
 ![Portfolio_Overview](https://github.com/krishkumar0204/Portfolio-/blob/2aa983cf185752938932be426d88372052f64a1c/src/assets/Portfolio.png)
-
-
 
 ### **📁 Project Structure**
 
-    src/
+    public/
     │── assets/
+    src/
     │── components/
     │── App.jsx
     │── main.jsx
