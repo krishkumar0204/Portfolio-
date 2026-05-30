@@ -29,54 +29,19 @@ export default function Projects() {
         </div>
 
         <div className="mt-20 pt-10  rounded-2xl profile-frame box-shadow">
-          <p className="ml-10 text-xl font-semibold">India Explorer</p>
+          <p className="ml-10 text-xl font-semibold">Campus Codex</p>
           <p className="text-xs ml-10 mt-1 text-neutral-100  ">
             Fronted + Backend{" "}
             <span className="text-xs text-neutral-400">
-              — Tourism platform that allows users to explore detailed tourist
-              place information .
+              — CampusCodex is a full-stack student notes platform for browsing,
+              uploading, saving, and searching study notes.
             </span>
           </p>
-          <a href="https://india-explorer.onrender.com/" target="_blank">
+          <a href="https://campus-codex-two.vercel.app/" target="_blank">
             <img
-              src="/assets/IndiaExplorer.png"
+              src="/assets/CampusCodex.png"
               alt="India Explorer Overview"
               className="h-44 md:h-96 md:w-xl w-64 object-contain mx-auto mt-4 md:mt-0 shrink-0"
-            />
-          </a>
-        </div>
-        <div className="mt-20 pt-10  rounded-2xl profile-frame box-shadow">
-          <p className="ml-10 text-xl font-semibold">WanderLust</p>
-          <p className="text-xs ml-10 mt-1  text-neutral-100 ">
-            Fronted + Backend{" "}
-            <span className="text-xs text-neutral-400">
-              — Accommodation listing platform featuring hotel uploads, pricing
-              details, reviews, supported by secure user authentication.
-            </span>
-          </p>
-          <a href="https://wanderlust-c5mp.onrender.com/" target="_blank">
-            <img
-              src="/assets/WanderLust.png"
-              alt="WanderLust Overview"
-              className="h-44 md:h-96 md:w-xl w-64  object-contain mx-auto mt-4 md:mt-0 shrink-0"
-            />
-          </a>
-        </div>
-
-        <div className="mt-20 pt-10  rounded-2xl profile-frame box-shadow">
-          <p className="ml-10 text-xl font-semibold">Krish's Portfolio</p>
-          <p className="text-xs ml-10 mt-1 text-neutral-100  ">
-            Web Development & Design '24{" "}
-            <span className="text-xs text-neutral-400">
-              {" "}
-              — a look at what I’ve been building.
-            </span>
-          </p>
-          <a href="https://portfolio-pink-nu-89.vercel.app/" target="_blank">
-            <img
-              src="/assets/Portfolio.png"
-              alt="Portfolio Overview"
-              className="h-44 md:h-96 md:w-xl w-64  object-contain mx-auto mt-4 md:mt-0 shrink-0"
             />
           </a>
         </div>
