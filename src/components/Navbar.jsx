@@ -74,7 +74,7 @@ export default function Navbar() {
   };
 
   return (
-    <div className="w-full max-w-7xl mx-auto fixed top-5 left-0 right-0 bg-transparent flex items-center justify-between px-4 z-50">
+    <div className="w-[calc(100%-2rem)] max-w-7xl mx-auto fixed top-5 left-0 right-0 flex items-center justify-between px-4 py-3 z-50 rounded-2xl border border-white/10 bg-[#242424]/85 shadow-lg shadow-black/20 backdrop-blur-md">
       {/* Left: Logo / Name */}
       <div className="flex items-start flex-col shrink-0">
         <Link
@@ -90,7 +90,7 @@ export default function Navbar() {
       </div>
 
       {/* Center: Nav links for large screens */}
-      <div className="hidden md:flex items-center justify-center gap-10 w-xs mx-auto  h-10 rounded-4xl transition-shadow duration-200 shadow-xs shadow-teal-100 hover:shadow-xs hover:shadow-blue-400">
+      <div className="hidden md:flex items-center justify-center gap-12 w-[24rem] mx-auto h-11 rounded-4xl transition-shadow duration-200 shadow-xs shadow-teal-100 hover:shadow-xs hover:shadow-blue-400">
         <Link
           to="/projects"
           className="font-medium text-md hover:text-teal-100"

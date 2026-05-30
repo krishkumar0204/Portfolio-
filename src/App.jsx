@@ -9,7 +9,7 @@ function App() {
   return (
     <BrowserRouter>
       <Navbar />
-      <main className="pt-24">
+      <main className="pt-28 md:pt-32">
         {/* add top padding so fixed navbar doesn't cover content */}
         <Routes>
           <Route path="/" element={<Portfolio />} />
