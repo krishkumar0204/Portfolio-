@@ -1,4 +1,6 @@
 import "../index.css";
+import { Link } from "react-router-dom";
+
 export default function LandingPage() {
   return (
     <>
@@ -86,18 +88,18 @@ export default function LandingPage() {
         <div className="flex items-center justify-around md:gap-40 w-xs mx-auto mt-14">
           <div className="flex flex-col">
             <h2 className="font-bold tracking-wider mb-3">EXPLORE</h2>
-            <a
-              href="/about"
+            <Link
+              to="/about"
               className="text-sm text-gray-200 font-semibold opacity-50 hover:opacity-100 cursor"
             >
               About
-            </a>
-            <a
-              href="/projects"
+            </Link>
+            <Link
+              to="/projects"
               className="text-sm text-gray-200 font-semibold opacity-50 hover:opacity-100 cursor"
             >
               Projects
-            </a>
+            </Link>
             <a
               href="/assets/Resume_Krish_Kumar.pdf"
               target="_blank"

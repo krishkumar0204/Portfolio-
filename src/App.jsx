@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Portfolio from "./components/Portfolio";
 import About from "./components/About";
 import Projects from "./components/Projects";
+import NotFound from "./components/NotFound";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           <Route path="/" element={<Portfolio />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/about" element={<About />} />
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
     </BrowserRouter>
